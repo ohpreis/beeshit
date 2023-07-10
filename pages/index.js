@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Don't call me Honey!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Honey is just beeshit.
         </p>
       </main>
 
